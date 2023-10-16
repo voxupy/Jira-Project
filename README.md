@@ -4,7 +4,7 @@
 <b>Projekt miał na celu obycie się z aplikacją JIRA, trening tworzenia zgłoszeń, przenoszenie z backlog na tablicę kanban, przypiswanie użytkownika, dodawanie załączników.</b>
 
 Aplikacja została przetestowana za pomocą testów eksploracyjnych. Została przetestowana w celu nauki i uzupełnienia portfolio. Testy są moją subiektywną opinią.
-Zawiera ona kilka błędów, niektóre znacznie wpływają na komfort użytkowania. 
+Raport wskazuje na błędy znalezione podczas testowania aplikacji, niektóre znacznie wpływają na komfort użytkowania. 
 
 Link do aplikacji <a href="https://play.google.com/store/apps/details?id=pl.swipeto&hl=pl">SwipeTo</a> <br>
 Link do zdjęć na dysku <a href="https://drive.google.com/drive/folders/14CZweVVow4z9X1MWh5yye_fYHP-aMg1i?hl=pl">Google</a>
