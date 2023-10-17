@@ -21,8 +21,9 @@ Link do zdjęć na dysku <a href="https://drive.google.com/drive/folders/14CZweV
 <li>SwipeTo</li>
 
 <h2>Ocena:</h2>
-Aplikacja zawiera kilka poważnych wad. Jest czytelna i łatwa w obsłudze, natomiast niżej wymienione wady moga komplikować korzystanie z niej, np. Nie można się zalogować do aplikacji za pomocą konta w Google.
-Jest ona dosyć skromnie rozbudawana i nie jest na tyle atrakcyjna żeby było warto z niej korzystać.
+W mojej ocenie niektóre błędy są krytyczne, takie jak brak możliwości zalogowania się za pomocą konta google. Tak naprawdę uniemożliwia ono korzystanie z aplikacji.<br>
+Inne błędy są mniej znaczące i jedynie mogą pogarszać komfort z korzystania z aplikacji. Aplikacja wizualnie jest przyjemna dla oka, oraz przejrzysta.<br>
+W mojej ocenie w pasku nawigacyjnym dodał bym nazwy ikon, żeby łatwiej można było nawigować po aplikacji nowym użytkownikom.
 
 <h2>Defekty</h2>
 
